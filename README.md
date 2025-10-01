@@ -1,5 +1,5 @@
 # parking-lot
-Parking lot project which gives status update on occupancy with maximum of 20 spaces available. 
+Parking lot project, made in TIA Portal, which gives status update on occupancy with maximum of 20 spaces available. 
 
 System is put in ready state by pressing the "start" button. 
 Whenever there is a car in the entrance, sensor detects it and the counter goes up by 1.
